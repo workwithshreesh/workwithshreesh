@@ -1,4 +1,4 @@
-
+![logo](https://github.com/workwithshreesh/workwithshreesh/blob/main/banner_dev.gif)
 <h1 align="center">Hi 👋, I'm Shreesh Tiwari</h1>
 <h3 align="center">A passionate data analyst and full stack developer from India</h3>
 
