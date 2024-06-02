@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreesh Tiwari</h1>
 <h3 align="center">A passionate data analyst and full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1UYgGVDPcKYeMFmb0SbC1rJO6fA4oNRfu/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workwithshreesh&label=Profile%20views&color=0e75b6&style=flat" alt="workwithshreesh" /> </p>
 
