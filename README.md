@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workwithshreesh&label=Profile%20views&color=0e75b6&style=flat" alt="workwithshreesh" /> </p>
 
+- 🔭 I’m worked on **Palle Technology PVT.LTD**
 - 🔭 I’m worked on **RV System PVT.LTD**
+- 🔭 I’m working on **Cnergee Technology PVT.LTD**
 
 - 🌱 I’m currently learning **Django, MERN Stack**
 
