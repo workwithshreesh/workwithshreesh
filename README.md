@@ -10,13 +10,13 @@
 - 🔭 I’m worked on **RV System PVT.LTD**
 - 🔭 I’m working on **Cnergee Technologies PVT.LTD**
 
-- 🌱 I’m currently learning **Django, MERN Stack**
+- 🌱 I’m currently learning **AWS, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/workwithshreesh](https://github.com/workwithshreesh)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/workwithshreesh/](https://www.linkedin.com/in/workwithshreesh/)
 
-- 💬 Ask me about **Python, DSA, Data Aanalyst, WordPress**
+- 💬 Ask me about **Python, DSA, Data Aanalyst, WordPress, Angular, Node.Js, Express, React, Django, Rest APi**
 
 - 📫 How to reach me **shreesht0@gmail.com**
 
